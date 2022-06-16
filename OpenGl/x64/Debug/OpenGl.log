@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Edward\source\repos\OpenGl\Main.cpp(99,27): warning C4101: 'numCo1Ch': unreferenced local variable
+C:\Users\Edward\source\repos\OpenGl\Main.cpp(99,16): warning C4101: 'heightImg': unreferenced local variable
+C:\Users\Edward\source\repos\OpenGl\Main.cpp(99,6): warning C4101: 'widthImg': unreferenced local variable
+  OpenGl.vcxproj -> C:\Users\Edward\source\repos\OpenGl\x64\Debug\OpenGl.exe
