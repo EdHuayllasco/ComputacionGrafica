@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Edward\source\repos\OpenGl\Main.cpp(131,27): warning C4101: 'numCo1Ch': unreferenced local variable
+C:\Users\Edward\source\repos\OpenGl\Main.cpp(131,16): warning C4101: 'heightImg': unreferenced local variable
+C:\Users\Edward\source\repos\OpenGl\Main.cpp(131,6): warning C4101: 'widthImg': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGl.vcxproj -> C:\Users\Edward\source\repos\OpenGl\x64\Debug\OpenGl.exe
